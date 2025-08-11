@@ -21,3 +21,5 @@ A aplicação permite adicionar nomes de amigos em uma lista e realizar um sorte
 - **HTML**
 - **CSS**
 - **JavaScript**
+
+# LINK DO DEPLOY: https://challenge-amigo-secreto-one-g9-alur.vercel.app/
